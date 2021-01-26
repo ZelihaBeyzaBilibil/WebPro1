@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.merkez{
+    display: flex;
+    justify-content: center;
+}
+.baslik{
+    text-align: center;
+}
+.header{
+    text-align: center;
+    width: 100%;
+}
+.kart{
+    text-align: center;
+}
+
+li p{
+    color: red;
+}
